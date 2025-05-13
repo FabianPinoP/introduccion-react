@@ -1,4 +1,4 @@
-import Cards from "./cards";
+import Cards from "./Cards";
 
 
 const Saludar = ({ name, direccion, login }) => {
